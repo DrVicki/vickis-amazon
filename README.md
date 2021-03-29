@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+![](https://github.com/DrVicki/vickis-amazon/blob/master/demo.gif)
+
+# Getting Started with Create React App: Vicki's Amazon Clone
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
